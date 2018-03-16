@@ -6,7 +6,7 @@ A workshop examining basic tools and capabilities of the Tableau Software.
 <br>data/                     -Contains all data sets
 <br>examples/                 -Contains html files of graphs created for workshop
 <br>README.md                 -Workshop summary
-<br>TableauGuide.pdf          -Step by step guide on how to create the examples
+<br>Tableau Guide.pdf          -Step by step guide on how to create the examples
 
 # Interactive Examples
 
