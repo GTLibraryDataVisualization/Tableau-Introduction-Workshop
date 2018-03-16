@@ -3,13 +3,10 @@ A workshop examining basic tools and capabilities of the Tableau Software.
 
 # Repository
 
-├── data/                     -Contains all data sets
-│
-├── examples/                 -Contains html files of graphs created for workshop
-│
-├── README.md                 -Workshop summary
-│
-├── TableauGuide.pdf          -Step by step guide on how to create the examples
+<br>data/                     -Contains all data sets
+<br>examples/                 -Contains html files of graphs created for workshop
+<br>README.md                 -Workshop summary
+<br>TableauGuide.pdf          -Step by step guide on how to create the examples
 
 # Interactive Examples
 
