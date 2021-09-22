@@ -1,5 +1,5 @@
 # Tableau Workshop
-A workshop examining basic tools and capabilities of the Tableau Software.
+After this workshop, we would appreciate your input on how your workshop experience is and how we can do better here: https://docs.google.com/forms/d/e/1FAIpQLScpN3Leq765IihESOpakWJgj4MqdtR_jf9GXtlyqrMGA7nYqg/viewform?usp=sf_link
 
 # Repository
 
